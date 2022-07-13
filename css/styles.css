@@ -35,6 +35,10 @@ p{
   font-size: 0.5rem;
 }
 
+#features{
+  background-color: white;
+  color: black;
+}
 .features-container{
   padding: 0 9%;
 }
